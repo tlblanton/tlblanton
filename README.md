@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlblanton
-- 👀 I’m interested in literary fiction, software development, and project management
-- 🌱 I’m currently learning French, Go, and all kinds of things
+- 👀 I’m interested in literary fiction, product & brand strategy, software development, and project management.
+- 🌱 I’m currently learning French, Go, and all kinds of things! Never not learning. 
 
 
 <!---
